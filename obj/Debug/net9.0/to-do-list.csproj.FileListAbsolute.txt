@@ -1,0 +1,14 @@
+f:\Projects\to-do-list\bin\Debug\net9.0\to-do-list.exe
+f:\Projects\to-do-list\bin\Debug\net9.0\to-do-list.deps.json
+f:\Projects\to-do-list\bin\Debug\net9.0\to-do-list.runtimeconfig.json
+f:\Projects\to-do-list\bin\Debug\net9.0\to-do-list.dll
+f:\Projects\to-do-list\bin\Debug\net9.0\to-do-list.pdb
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.GeneratedMSBuildEditorConfig.editorconfig
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.AssemblyInfoInputs.cache
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.AssemblyInfo.cs
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.csproj.CoreCompileInputs.cache
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.dll
+f:\Projects\to-do-list\obj\Debug\net9.0\refint\to-do-list.dll
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.pdb
+f:\Projects\to-do-list\obj\Debug\net9.0\to-do-list.genruntimeconfig.cache
+f:\Projects\to-do-list\obj\Debug\net9.0\ref\to-do-list.dll
